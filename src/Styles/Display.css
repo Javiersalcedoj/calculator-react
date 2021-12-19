@@ -1,0 +1,22 @@
+.display {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  width: 100%;
+  height: 50vh;
+  padding: 25px;
+  text-align: right;
+  background-color: var(--primary-color);
+}
+.display__operation {
+  margin-bottom: 20px;
+  font-size: 20px;
+  overflow-wrap: break-word;
+}
+.display__operation--grey {
+  color: gray;
+}
+.display__result {
+  font-size: 40px;
+  font-weight: 900;
+}

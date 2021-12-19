@@ -1,0 +1,15 @@
+.keyboard {
+  display: grid;
+  grid-template-columns: 3fr 1fr ;
+  height: 50vh;
+  background-color: var(--primary-color);
+}
+.keyboard--left {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+.keyboard--right {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr 0.66fr 0.66fr 0.66fr 1fr;
+}

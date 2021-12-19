@@ -1,0 +1,10 @@
+.keyboard__button {
+  font-size: 25px;
+  font-weight: 600;
+  color: var(--secondary-color);
+  border: none;
+  background: transparent;
+}
+.keyboard__button img{
+  width: 24px;
+}
