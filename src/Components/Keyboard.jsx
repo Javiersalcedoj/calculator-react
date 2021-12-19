@@ -15,7 +15,7 @@ function Keyboard({ operation, setOperation, setToggleEqual, toggleEqual }) {
         array.splice(index, 1);
       }
     }
-    
+    setToggleEqual(false)
     array.push(elemt)
     setOperation(array)
   }
