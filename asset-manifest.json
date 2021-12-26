@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/calculator-react/static/css/main.11f61f6b.css",
+    "main.js": "/calculator-react/static/js/main.1f5ffb41.js",
+    "index.html": "/calculator-react/index.html",
+    "static/media/backspace_black.svg": "/calculator-react/static/media/backspace_black.021f4e081fb8ed4fcbc58e5db15f45f0.svg",
+    "main.11f61f6b.css.map": "/calculator-react/static/css/main.11f61f6b.css.map",
+    "main.1f5ffb41.js.map": "/calculator-react/static/js/main.1f5ffb41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11f61f6b.css",
+    "static/js/main.1f5ffb41.js"
+  ]
+}
